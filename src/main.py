@@ -2,6 +2,7 @@ from observer_practice.canal import CanalNoticias
 from observer_practice.suscriptores import SuscriptorSMS
 from observer_practice.suscriptores import SuscriptorEmail
 
+
 canal = CanalNoticias("Python TV")
 suscri1 = SuscriptorEmail("Carlitos")
 suscri2 = SuscriptorSMS("Yaizita")
