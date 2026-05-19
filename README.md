@@ -166,4 +166,4 @@ Al terminar las misiones, se creará un issue final de calificación. Ejecuta ma
 
 ## Autores
 
-- Reemplaza esta línea con tu nombre, grupo, curso o rol.
+- Yaiza Angelina Sanchez Dueñez, 2220232034, ISW 01.
